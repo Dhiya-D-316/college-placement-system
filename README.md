@@ -21,3 +21,5 @@
 - WHERE Conditions
 - JOIN Queries
 - Transaction Management (COMMIT & ROLLBACK)
+- ## ER Diagram
+![ER Diagram](er_diagram.png)
